@@ -1,2 +1,5 @@
 # PythonPortfolio
-My python portfolio.
+Здесь результаты моего обучения питону в Synergy Academy.
+
+# 1. Python start
+В этом разделе я собрал задачи, которые решал во время изучения основ питона.
